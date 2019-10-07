@@ -123,7 +123,7 @@ function colorarray(x){
     return arr;
 }
 function gencolor(){
-    var r = Math.floor(Math.random() * 256);
+    var r = Math.floor(Math.random() * 255);
     var b = Math.floor(Math.random() * 256);
     var g = Math.floor(Math.random() * 256);
     return "rgb(" + r + ", " + g + ", " + b + ")";
