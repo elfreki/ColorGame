@@ -17,12 +17,12 @@ body {
 }
 #stripe{
     background: whitesmoke;
-    color: black;
+    color: zetblack;
     text-align: center;
     margin:0;
 }
 #picked{
-    font-size:200%;
+    font-size:222%;
 }
 h1{
     margin:0;
@@ -42,19 +42,19 @@ button{
     text-transform: uppercase;
     border:none;
     font-weight: 900;
-    color:steelblue;
+    color:navyblue;
     transition: all 0.3s;
     outline:none;
 }
 button:hover{
-    color:white;
+    color:pink;
     background-color: steelblue;
 }
 .selectedd{
     background-color:steelblue;
-    color:white;
+    color:pink;
 }
 #message{
     display:inline-block;
-    width:20%;
+    width:23%;
 }
